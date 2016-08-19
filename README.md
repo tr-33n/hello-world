@@ -1,2 +1,3 @@
 # hello-world
-Loula's first attempt at a thing – my Python/Markov Chain folder
+Turns out this will be just a test not a markov chain after all. my bad.
+
